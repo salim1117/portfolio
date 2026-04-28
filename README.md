@@ -28,7 +28,7 @@ A premium, high-performance portfolio website inspired by the **Mercedes F1 Petr
 └── .gitignore    # Deployment configuration
 ```
 
-## ⚙️ LOCAL SETUP
+# ⚙️ LOCAL SETUP
 1. Clone the repository:
    ```bash
    git clone https://github.com/salim1117/portfolio.git
